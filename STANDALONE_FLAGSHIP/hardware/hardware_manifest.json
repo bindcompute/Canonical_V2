@@ -1,0 +1,6 @@
+{
+  "bitstream_id": "RCF_GENERIC_MULTISLOT_v1",
+  "file": "rcf_multislot.bin",
+  "device": "iCE40 HX8K ct256",
+  "size": 135100
+}

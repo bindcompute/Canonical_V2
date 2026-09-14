@@ -1,0 +1,22 @@
+{
+  "id": "AUTO_g0_s1002_field",
+  "regularity": "field",
+  "confidence": 0.8,
+  "causal_result": {
+    "delta_e": 8.605119999999971,
+    "delta_d": 0.0
+  },
+  "generation": 0,
+  "world_active": [
+    "blink",
+    "boundary",
+    "field",
+    "hazard",
+    "resource"
+  ],
+  "substrate_ids": [
+    "C5_s515151_g3",
+    "C5_s515151_g6",
+    "C5_s606862_g6"
+  ]
+}

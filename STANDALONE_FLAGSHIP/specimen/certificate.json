@@ -1,0 +1,24 @@
+{
+  "object_id": "ECR2MF_g0_field_s1002",
+  "type": "embodied_ecr_to_mf_certificate",
+  "regularity": "field",
+  "confidence": 0.8,
+  "causal_result": {
+    "delta_e": 8.605119999999971,
+    "delta_d": 0.0
+  },
+  "relationship": "field",
+  "mf_parents": [
+    "C5_s515151_g3",
+    "C5_s515151_g6"
+  ],
+  "generation": 0,
+  "world_active": [
+    "blink",
+    "boundary",
+    "field",
+    "hazard",
+    "resource"
+  ],
+  "semantics_note": "ECR intervention-validated; promoted via MF gate; not Hop-2 multi-hop"
+}

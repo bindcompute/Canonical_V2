@@ -1,0 +1,17 @@
+{
+  "fp_before": [
+    1.0,
+    -1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "fp_after": [
+    1.0,
+    -1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "bitstream_id": "RCF_GENERIC_MULTISLOT_v1"
+}
