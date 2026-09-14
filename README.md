@@ -146,7 +146,7 @@ gate-off and restoration behavior
 For deterministic tests, the release uses fixed inputs, seeds, stimuli, and tolerances defined by the corresponding experimental protocols.
 
 PAPER
-Bind: Causally Certified Computational Matter
+Bind: Causally Certified Computational Matter : https://doi.org/10.5281/zenodo.22752616
 
 The paper describes the architecture, experiments, failures, limitations, and full evidence chain represented by this release.
 
